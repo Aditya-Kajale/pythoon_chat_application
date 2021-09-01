@@ -1,5 +1,5 @@
 # pythoon_chat_application
-Simple Chat Application ssing Python 3
+Simple Chat Application using Python 3
 
 HOW TO USE : (install tkinter library)
 1. For on same system - First reun server file and then run client file to automatically connect.
